@@ -8,7 +8,7 @@ public class RandomSentencesGenerator {
     private static String[] verbs = {"sings", "plays", "cries", "drives", "drinks"};
     private static String[] nouns = {"stones", "cake", "apple", "necklace", "the getaway car"};
     private static String[] adverbs = {"slowly", "diligently", "warmly", "sadly", "rapidly"};
-    private static String[] details = {"near the river", "at home", "in the park"};
+    private static String[] details = {"near the sea", "at home", "in the park"};
 
     private static String getRandomWord(String[] words) {
         Random random = new Random();
