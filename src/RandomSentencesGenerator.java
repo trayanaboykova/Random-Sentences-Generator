@@ -2,11 +2,11 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class RandomSentencesGenerator {
-    
+
     private static String[] names = {"Taylor", "Augustine", "Dorothea", "Betty"};
     private static String[] places = {"New York", "L.A.", "The Lakes", "London"};
     private static String[] verbs = {"sings", "plays", "cries", "drives", "drinks"};
-    private static String[] nouns = {"stones", "cake", "apple", "necklace", "lipstick"};
+    private static String[] nouns = {"stones", "cake", "apple", "necklace", "the getaway car"};
     private static String[] adverbs = {"slowly", "diligently", "warmly", "sadly", "rapidly"};
     private static String[] details = {"near the river", "at home", "in the park"};
 
